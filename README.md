@@ -27,6 +27,6 @@ SDL2 文档翻译说明
         在文本开头加入 `Translate By 作者`
     6. Markdown 目录标记
         用 `#`,`##`,`###`来标识一二三级标题
-    7. 文章暂时发布在[ATD-Library](library.atd3.cn)上，由管理员上传，请管理员申请账号，找群主申请编辑权限
+    7. 文章暂时发布在[ATD-Library](http://library.atd3.cn)上，由管理员上传，请管理员申请账号，找群主申请编辑权限
 3. 加入翻译组 
     点击链接加入群 [ATD-翻译组](http://jq.qq.com/?_wv=1027&k=29rZUY1)
