@@ -7,16 +7,16 @@ SDL2 文档翻译说明
         文件放的位置为 类别/文件名 其中类别有 `Hints`,`Enumerations`,`Structures`,`Functions`,对应相应文件夹中
     2. 翻译标记
         在翻译文档时，请在[List.md](List.md) 的相应列后面加 `translating by ID 时间`，如：
-        ```
-        - [ ] Functions
-	        - [ ] SDL_AddEventWatch translating by DXkite 2016-09-18
-        ```
+```
+ - [ ] Functions
+    - [ ] SDL_AddEventWatch translating by DXkite 2016-09-18
+```
         然后提交到本GIT库中，不会使用git库的，请联系 @DXkite 或者查看[Github 简明教程](http://www.runoob.com/w3cnote/git-guide.html)学习，
         翻译完成后，请将`[ ]`改为`[x]`，标识该文档已经翻译，并添加文件链接,可修改日期,如
-        ```
-        - [x] Functions
-	        - [x] [SDL_AddEventWatch](Functions/SDL_AddEventWatch.md) translated by DXkite 2016-09-19
-        ```
+```
+- [x] Functions
+	 - [x] [SDL_AddEventWatch](Functions/SDL_AddEventWatch.md) translated by DXkite 2016-09-19
+```
     3. 文件链接
         如链接 `See SDL_LogPriority for details` 其中 `SDL_LogPriority` 为链接`http://wiki.libsdl.org/SDL_LogPriority`，找到其对应位置，
         用 `[SDL_LogPriority](MD路径)` 来表示，该例子的实例：`See [SDL_LogPriority](Functions/SDL_LogPriority.md) for details` -> See [SDL_LogPriority](Functions/SDL_LogPriority.md) for details
