@@ -133,7 +133,7 @@
 	- [ ] SDL_atomic_t
 	- [ ] SDL_version
 - [ ] Functions
-	- [x] SDL_AddEventWatch  By DXkite
+	- [x] [SDL_AddEventWatch](Functions/SDL_AddEventWatch.md)  By DXkite
 	- [ ] SDL_AddHintCallback
 	- [ ] SDL_AddTimer
 	- [ ] SDL_AllocFormat
