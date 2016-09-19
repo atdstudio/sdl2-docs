@@ -12,6 +12,7 @@ void SDL_AddEventWatch(SDL_EventFilter filter,
 ```
 
 ## 函数参数
+
 |参数|说明|
 |----|----|
 | filter |当一个事件发生时调用的过滤函数，查看‘注意’了解跟多信息。  |
@@ -24,7 +25,7 @@ void SDL_AddEventWatch(SDL_EventFilter filter,
 int YourEventFilter(void*      userdata,
                     SDL_Event* event)
 ```
-`YourEventFilter`是你过滤函数的名字，它的参数为：
+`YourEventFilter`是你过滤函数的名字，它的参数为：   
 |参数|说明|
 |---|----|
 |userdata|在调用函数`SDL_AddEventWatch`()时设置的数据指针 |
