@@ -15,7 +15,7 @@ void SDL_AddEventWatch(SDL_EventFilter filter,
 
 |参数|说明|
 |----|----|
-| filter |当一个事件发生时调用的过滤函数，查看‘注意’了解跟多信息。  |
+| filter |当一个事件发生时调用的过滤函数，查看[注意](#注意)了解跟多信息。  |
 | userdata | 一个传递给过滤函数的指针|
 
 ## 注意
