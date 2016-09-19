@@ -26,6 +26,7 @@ int YourEventFilter(void*      userdata,
                     SDL_Event* event)
 ```
 `YourEventFilter`是你过滤函数的名字，它的参数为：   
+
 |参数|说明|
 |---|----|
 |userdata|在调用函数`SDL_AddEventWatch`()时设置的数据指针 |
