@@ -2,7 +2,7 @@
 
 | 信息|头文件|
 |-----------------------|-------------------------|
-|Initialization and Shutdown 初始化和退出| SDL.h   |
+|Initialization and Shutdown 初始化和退出| [SDL.h](http://hg.libsdl.org/SDL/file/default/include/SDL.h)   |
 | Configuration Variables 配置相关变量 | [SDL_hints.h](http://hg.libsdl.org/SDL/file/default/include/SDL_hints.h)|
 | Error Handling 错误处理   |   [SDL_error.h](http://hg.libsdl.org/SDL/file/default/include/SDL_error.h)     |
 | Log Handling 日志处理     | [SDL_log.h](http://hg.libsdl.org/SDL/file/default/include/SDL_log.h)         |
@@ -25,7 +25,7 @@
 | 信息|头文件|
 |-----------------------|-------------------------|
 | Event Handling 事件处理 | [SDL_events.h](http://hg.libsdl.org/SDL/file/default/include/SDL_events.h) |
-| Keyboard Support 键盘支持 | [SDL_keyboard.h SDL_keycode.h SDL_scancode.h](http://hg.libsdl.org/SDL/file/default/include/SDL_keyboard.h SDL_keycode.h SDL_scancode.h) |
+| Keyboard Support 键盘支持 | [SDL_keyboard.h](http://hg.libsdl.org/SDL/file/default/include/SDL_keyboard.h) , [SDL_keycode.h](http://hg.libsdl.org/SDL/file/default/include/SDL_keycode.h),[SDL_scancode.h](http://hg.libsdl.org/SDL/file/default/include/SDL_scancode.h) |
 | Mouse Support 鼠标支持    | [SDL_mouse.h](http://hg.libsdl.org/SDL/file/default/include/SDL_mouse.h) |
 | Joystick Support 操纵杆支持 | [SDL_joystick.h](http://hg.libsdl.org/SDL/file/default/include/SDL_joystick.h) |
 | Game Controller Support 游戏控制器支持 | [SDL_gamecontroller.h](http://hg.libsdl.org/SDL/file/default/include/SDL_gamecontroller.h)| 
