@@ -2,7 +2,7 @@ Translate By DXkite Reference: http://wiki.libsdl.org/SDL_AddEventWatch?highligh
 
 # [SDL_AddEventWatch](http://wiki.libsdl.org/SDL_AddEventWatch?highlight=%28%5CbCategoryAPI%5Cb%29%7C%28SDLFunctionTemplate%29)
 
-在事件添加到事件队列时添加一个回调函数。
+添加一个回调函数，在事件添加到事件队列时调用。
 
 ## 语法
 
@@ -26,6 +26,7 @@ int YourEventFilter(void*      userdata,
                     SDL_Event* event)
 ```
 `YourEventFilter`是你过滤函数的名字，它的参数为：   
+
 |参数|说明|
 |---|----|
 |userdata|在调用函数`SDL_AddEventWatch`()时设置的数据指针 |
