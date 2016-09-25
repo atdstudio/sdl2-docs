@@ -11,7 +11,7 @@ void SDL_SetAssertionHandler(SDL_AssertionHandler handler, void* userdata)
 ##Function Parameters 函数参数
 | 参数名 |解释 |
 |--------|-----|
-|handler| the function to call when an assertion fails or NULL for the default handler; see [Remarks]( )for details. 当断言失败时要调用的函数或者填入NULL使用默认的处理函数。[注释](Remarks 注释) 中有详细说明。|
+|handler| the function to call when an assertion fails or NULL for the default handler; see [Remarks](#Remarks 注释)for details. 当断言失败时要调用的函数或者填入NULL使用默认的处理函数。[注释](#Remarks 注释) 中有详细说明。|
 |serdata|a pointer that is passed to **handler**. 传入到**处理函数**的数据指针。|
 
 ##Code Examples 代码示例
