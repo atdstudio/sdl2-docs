@@ -43,7 +43,7 @@
 	- [ ] SDL_HINT_XINPUT_ENABLED
 	- [ ] SDL_HINT_XINPUT_USE_OLD_JOYSTICK_MAPPING
 - [ ] Enumerations
-	- [ ] SDL_AssertState
+	- [x] SDL_AssertState
 	- [ ] SDL_AudioFormat
 	- [ ] SDL_AudioStatus
 	- [ ] SDL_BlendMode
@@ -557,7 +557,7 @@
 	- [ ] SDL_SemValue
 	- [ ] SDL_SemWait
 	- [ ] SDL_SemWaitTimeout
-	- [ ] SDL_SetAssertionHandler
+	- [x] SDL_SetAssertionHandler
 	- [ ] SDL_SetClipRect
 	- [ ] SDL_SetClipboardText
 	- [ ] SDL_SetColorKey
