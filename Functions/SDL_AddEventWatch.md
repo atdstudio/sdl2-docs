@@ -25,6 +25,7 @@ void SDL_AddEventWatch(SDL_EventFilter filter,
 int YourEventFilter(void*      userdata,
                     SDL_Event* event)
 ```
+
 `YourEventFilter`是你过滤函数的名字，它的参数为：   
 
 |参数|说明|
@@ -39,5 +40,7 @@ int YourEventFilter(void*      userdata,
 用户通过函数[SDL_PeepEvents](SDL_PeepEvents.md)()触发的事件调用。
 
 ## 相关函数
-[SDL_DelEventWatch](SDL_DelEventWatch.md)    
-[SDL_SetEventFilter](SDL_SetEventFilter.md)
+[SDL_DelEventWatch](SDL_DelEventWatch.md)     
+[SDL_SetEventFilter](SDL_SetEventFilter.md)   
+
+*@[DXkite](https://github.com/DXkite) Translated.*

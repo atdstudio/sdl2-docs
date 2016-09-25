@@ -8,3 +8,5 @@ This category contains functions for handling shared objects.
 1. [SDL_LoadFunction](../Functions/SDL_LoadFunction.md)
 2. [SDL_LoadObject](../Functions/SDL_LoadObject.md)
 3. [SDL_UnloadObject](../Functions/SDL_UnloadObject.md)
+
+*@[DXkite](https://github.com/DXkite) Translated.*

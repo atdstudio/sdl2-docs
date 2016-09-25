@@ -85,3 +85,5 @@
 |-----------------------|-------------------------|
 | Platform-specific Functionality 系统相关的函数扩展 | [SDL_system.h](http://hg.libsdl.org/SDL/file/default/include/SDL_system.h) |
 | Standard Library Functionality 标准库相关的函数扩展 |[SDL_stdinc.h](http://hg.libsdl.org/SDL/file/default/include/SDL_stdinc.h) |
+
+*@[DXkite](https://github.com/DXkite) Translated.*
