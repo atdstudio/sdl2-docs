@@ -36,5 +36,5 @@ SDL_LoadObject("mylib.so");
 
 [SDL_UnloadObject](SDL_UnloadObject.md)
 
-
+--------------------------------------------------------------
 *@[DXkite](https://github.com/DXkite) Translated.*

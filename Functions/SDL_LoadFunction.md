@@ -59,4 +59,5 @@ Make sure you declare your function pointers with the same calling convention as
 
 [SDL_UnloadObject](SDL_UnloadObject.md)
 
+--------------------------------------------------------------
 *@[DXkite](https://github.com/DXkite) Translated.*

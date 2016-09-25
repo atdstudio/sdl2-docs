@@ -23,5 +23,5 @@ void SDL_UnloadObject(void* handle)
 [SDL_LoadFunction](SDL_LoadFunction.md)     
 [SDL_LoadObject](SDL_LoadObject.md)     
 
-
+--------------------------------------------------------------
 *@[DXkite](https://github.com/DXkite) Translated.*

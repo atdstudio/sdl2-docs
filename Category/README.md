@@ -61,6 +61,7 @@
 
 # Shared Object Support 动态库支持
 *All by @[DXkite](https://github.com/DXkite) Translated.*
+
 | 信息|头文件|
 |-----------------------|-------------------------|
 | Shared Object Loading and Function Lookup 动态库的加载和函数的调用| [SDL_loadso.h](http://hg.libsdl.org/SDL/file/default/include/SDL_loadso.h) |
