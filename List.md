@@ -628,7 +628,7 @@
 	- [ ] SDL_TriggerBreakpoint
 	- [ ] SDL_TryLockMutex
 	- [ ] SDL_UnionRect
-	- [ ] SDL_UnloadObject
+	- [x] SDL_UnloadObject 
 	- [ ] SDL_UnlockAudio
 	- [ ] SDL_UnlockAudioDevice
 	- [ ] SDL_UnlockMutex
