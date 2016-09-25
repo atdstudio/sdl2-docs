@@ -59,12 +59,12 @@
 | Filesystem Paths 文件系统路径 | [SDL_filesystem.h](http://hg.libsdl.org/SDL/file/default/include/SDL_filesystem.h) |
 | File I/O Abstraction 文件抽象输入输出 |[SDL_rwops.h](http://hg.libsdl.org/SDL/file/default/include/SDL_rwops.h)|
 
-# Shared Object Support 动态库支持
-*All by @[DXkite](https://github.com/DXkite) Translated.*
+# Shared Object Support 动态库支持 
+*All by @[DXkite](https://github.com/DXkite)*
 
 | 信息|头文件|
 |-----------------------|-------------------------|
-| Shared Object Loading and Function Lookup 动态库的加载和函数的调用| [SDL_loadso.h](http://hg.libsdl.org/SDL/file/default/include/SDL_loadso.h) |
+| [Shared Object Loading and Function Lookup 动态库的加载和函数的调用](SharedObject.md)| [SDL_loadso.h](http://hg.libsdl.org/SDL/file/default/include/SDL_loadso.h) |
 
 
 # Platform and CPU Information 平台和CPU信息
