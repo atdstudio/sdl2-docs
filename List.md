@@ -443,8 +443,8 @@
 	- [ ] SDL_LoadBMP
 	- [ ] SDL_LoadBMP_RW
 	- [ ] SDL_LoadDollarTemplates
-	- [ ] SDL_LoadFunction
-	- [ ] SDL_LoadObject
+	- [x] [SDL_LoadFunction](Functions/SDL_LoadFunction.md)
+	- [x] [SDL_LoadObject](Functions/SDL_LoadObject.md)
 	- [ ] SDL_LoadWAV
 	- [ ] SDL_LoadWAV_RW
 	- [ ] SDL_LockAudio
