@@ -45,9 +45,9 @@ SDL_AssertState YourAssertionHandler(const SDL_AssertData* data, void* userdata)
 传入 <a href="SDL_SetAssertionHandler.md">SDL_SetAssertionHandler</a>() 中作为 <b>userdata</b> 参数的数据指针。</td></tr>
 </table>
 
->This callback should return an [SDL_AssertState](SDL_AssertState.md) value indicating how to handle the assertion failure.
+>This callback should return an [SDL_AssertState](../Enumerations/SDL_AssertState.md) value indicating how to handle the assertion failure.
 
->该回调函数应返回一个用于表示如何处理断言失败的 [SDL_AssertState](SDL_AssertState.md) 值。
+>该回调函数应返回一个用于表示如何处理断言失败的 [SDL_AssertState](../Enumerations/SDL_AssertState.md) 值。
 
 This callback may fire from any thread, but it runs wrapped in a mutex, so it will only fire from one thread at a time.
 
