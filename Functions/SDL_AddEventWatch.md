@@ -1,5 +1,3 @@
-Translate By DXkite Reference: http://wiki.libsdl.org/SDL_AddEventWatch?highlight=%28%5CbCategoryAPI%5Cb%29%7C%28SDLFunctionTemplate%29
-
 # [SDL_AddEventWatch](http://wiki.libsdl.org/SDL_AddEventWatch?highlight=%28%5CbCategoryAPI%5Cb%29%7C%28SDLFunctionTemplate%29)
 
 添加一个回调函数，在事件添加到事件队列时调用。
@@ -43,4 +41,5 @@ int YourEventFilter(void*      userdata,
 [SDL_DelEventWatch](SDL_DelEventWatch.md)     
 [SDL_SetEventFilter](SDL_SetEventFilter.md)   
 
+----------------------------------------------------------------------------
 *@[DXkite](https://github.com/DXkite) Translated.*
