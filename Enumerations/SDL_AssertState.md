@@ -4,7 +4,8 @@ An enumeration of assertion handling states.
 断言处理状态的枚举。
 
 ##Values 值
-
+| 值 | 说明 |
+|--------|-----|
 | SDL_ASSERTION_RETRY| retry the assert immediately 立刻重试断言|
 |SDL_ASSERTION_BREAKtrigger a breakpoint under the debugger 在调试器中触发断点|
 |SDL_ASSERTION_ABORTterminate the program 终止程序|
