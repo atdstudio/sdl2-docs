@@ -5,9 +5,10 @@ The functions in this category are used to set up SDL for use and generally have
 在本分类中将要出现的函数是用来进行全局和使用的设置。
 ## Introduction to Initialization 初始化的介绍
 To begin using SDL in your program SDL_Init() must be called before most other SDL functions. The role of SDL_Init() is to properly initialize the SDL library and start each of the various subsystems requested as part of the call.
-在使用其他的SQL函数之前，你必须最先调用函数 [SDL_Init](../Functions/SDL_Init.md) 对系统进行初始化，[SDL_Init](../Functions/SDL_Init.md)的作用是适当的初始化一些SDL库的各类子系统。
+在使用其他的SDL函数之前，你必须最先调用函数 [SDL_Init](../Functions/SDL_Init.md) 对系统进行初始化，[SDL_Init](../Functions/SDL_Init.md)的作用是适当的初始化一些SDL库的各类子系统。
 {i} The File I/O and Threading subsystems are initialized by default. To initialize other subsystems you must specifically call them. Multiple subsystems may be OR'd together.
 *注：文件I/O和线程是默认被初始化的，要想唤起初始化其他的子系统，你必须一个一个的调用，可以用|来初始化多个子系统。
+
 *Example 例子*
 ```c
 SDL_Init(SDL_INIT_VIDEO|SDL_INIT_AUDIO);

@@ -12,7 +12,7 @@ void* SDL_LoadObject(const char* sofile)
 |--------|-----|
 |sofile| a system dependent name of the object file 共享库对象文件名 |
 
-## Return Value
+## Return Value 返回值
 
 Returns a pointer to the object handle or NULL if there was an error; call  [SDL_GetError](http://wiki.libsdl.org/SDL_GetError) for more information.
 返回一个动态库指针，如果出现错误，则返回NULL。调用函数 [SDL_GetError](SDL_GetError.md)() 可获取更多错误信息。  
