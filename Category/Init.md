@@ -1,6 +1,6 @@
 # Initialization and Shutdown 初始化和退出
  
-## Introduction 介绍个妹纸
+## Introduction 介绍
 The functions in this category are used to set up SDL for use and generally have global effects in your program.
 
 在本分类中将要出现的函数是用来进行全局和使用的设置。
