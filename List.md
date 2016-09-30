@@ -134,8 +134,8 @@
 	- [ ] SDL_version
 - [ ] Functions
 	- [x] [SDL_AddEventWatch](Functions/SDL_AddEventWatch.md)  By DXkite
-	- [x] SDL_AddHintCallback
-	- [x] SDL_AddTimer
+	- [x] [SDL_AddHintCallback](Functions/SDL_AddHintCallback.md)  By SixerMe
+	- [x] [SDL_AddTimer](Functions/SDL_AddTimer.md)  By SixerMe
 	- [ ] SDL_AllocFormat
 	- [ ] SDL_AllocPalette
 	- [ ] SDL_AllocRW
