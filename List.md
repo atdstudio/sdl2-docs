@@ -114,7 +114,7 @@
 	- [ ] SDL_MultiGestureEvent
 	- [ ] SDL_Palette
 	- [ ] SDL_PixelFormat
-	- [ ] SDL_Point
+	- [x] [SDL_Point](Structures/SDL_Point.md)
 	- [ ] SDL_QuitEvent
 	- [ ] SDL_RWops
 	- [ ] SDL_Rect
