@@ -134,9 +134,9 @@
 	- [ ] SDL_version
 - [ ] Functions
 	- [x] [SDL_AddEventWatch](Functions/SDL_AddEventWatch.md)  By DXkite
-	- [x] [SDL_AddHintCallback](Functions/SDL_AddHintCallback.md)  By SixerMe
-	- [x] [SDL_AddTimer](Functions/SDL_AddTimer.md)  By SixerMe
-	- [ ] SDL_AllocFormat
+	- [x] [SDL_AddHintCallback](Functions/SDL_AddHintCallback.md) 	 By SixerMe
+	- [x] [SDL_AddTimer](Functions/SDL_AddTimer.md)     		     By SixerMe
+	- [x] [SDL_AllocFormat](Functions/SDL_AllocFormat.md)  			 By SixerMe
 	- [ ] SDL_AllocPalette
 	- [ ] SDL_AllocRW
 	- [ ] SDL_AndroidGetActivity
