@@ -137,7 +137,7 @@
 	- [x] [SDL_AddHintCallback](Functions/SDL_AddHintCallback.md) 	 By SixerMe
 	- [x] [SDL_AddTimer](Functions/SDL_AddTimer.md)     		     By SixerMe
 	- [x] [SDL_AllocFormat](Functions/SDL_AllocFormat.md)  			 By SixerMe
-	- [ ] SDL_AllocPalette
+	- [x] [SDL_AllocPalette](Function/SDL_AllocPalette.md)    		 By SixerMe 
 	- [ ] SDL_AllocRW
 	- [ ] SDL_AndroidGetActivity
 	- [ ] SDL_AndroidGetExternalStoragePath
