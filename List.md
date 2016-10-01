@@ -43,10 +43,10 @@
 	- [ ] SDL_HINT_XINPUT_ENABLED
 	- [ ] SDL_HINT_XINPUT_USE_OLD_JOYSTICK_MAPPING
 - [ ] Enumerations
-	- [x] SDL_AssertState
-	- [ ] SDL_AudioFormat
+	- [x] [SDL_AssertState](Enumerations/SDL_AssertState.md) @lxfly2000
+	- [x] [SDL_AudioFormat](Enumerations/SDL_AudioFormat.md) @lxfly2000
 	- [ ] SDL_AudioStatus
-	- [ ] SDL_BlendMode
+	- [x] [SDL_BlendMode](Enumerations/SDL_BlendMode.md) @lxfly2000
 	- [ ] SDL_EventType
 	- [ ] SDL_GLattr
 	- [ ] SDL_GLcontextFlag
@@ -287,7 +287,7 @@
 	- [ ] SDL_GetDisplayMode
 	- [ ] SDL_GetDisplayName
 	- [ ] SDL_GetDisplayUsableBounds
-	- [ ] SDL_GetError
+	- [x] [SDL_GetError](Functions/SDL_GetError.md) @lxfly2000
 	- [ ] SDL_GetEventFilter
 	- [ ] SDL_GetEventState
 	- [ ] SDL_GetGlobalMouseState
@@ -522,7 +522,7 @@
 	- [ ] SDL_RemoveTimer
 	- [ ] SDL_RenderClear
 	- [ ] SDL_RenderCopy
-	- [ ] SDL_RenderCopyEx
+	- [x] [SDL_RenderCopyEx](Functions/SDL_RenderCopyEx.md) @lxfly2000
 	- [ ] SDL_RenderDrawLine
 	- [ ] SDL_RenderDrawLines
 	- [ ] SDL_RenderDrawPoint
@@ -557,7 +557,7 @@
 	- [ ] SDL_SemValue
 	- [ ] SDL_SemWait
 	- [ ] SDL_SemWaitTimeout
-	- [x] SDL_SetAssertionHandler
+	- [x] [SDL_SetAssertionHandler](Functions/SDL_SetAssertionHandler.md) @lxfly2000
 	- [ ] SDL_SetClipRect
 	- [ ] SDL_SetClipboardText
 	- [ ] SDL_SetColorKey

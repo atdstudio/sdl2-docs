@@ -1,6 +1,5 @@
 #[SDL_SetAssertionHandler](https://wiki.libsdl.org/SDL_SetAssertionHandler)
-Use this function to set an application-defined assertion handler.
-
+Use this function to set an application-defined assertion handler.  
 使用该函数设置一个应用程序指定的断言处理函数。
 
 ##Syntax 语法
@@ -20,19 +19,16 @@ void SDL_SetAssertionHandler(SDL_AssertionHandler handler, void* userdata)
 ```
 
 ##Remarks 注释
-This function allows an application to show its own assertion UI and/or force the response to an assertion failure. If the application doesn't provide this, SDL will try to do the right thing, popping up a system-specific GUI dialog, and probably minimizing any fullscreen windows.
-
+This function allows an application to show its own assertion UI and/or force the response to an assertion failure. If the application doesn't provide this, SDL will try to do the right thing, popping up a system-specific GUI dialog, and probably minimizing any fullscreen windows.  
 该函数允许应用程序显示它自己的断言界面和/或强制断言的回应失败。如果程序中没有指定，SDL 会尝试做正确的行为，弹出一个系统特定的对话框，并且尝试最小化所有全屏的窗口。
 
-The function prototype for **handler** is:
-
+The function prototype for **handler** is:  
 **handler** 的函数原型是：
 ```C
 SDL_AssertState YourAssertionHandler(const SDL_AssertData* data, void* userdata)
 ```
 
 * where `YourAssertionHandler` is the name of your function and its parameters are:
-
 * 其中 `YourAssertionHandler` 是你声明的函数名字，参数为：
 <table>
 <tr><td>data</td><td>a pointer to the <a href="../Structures/SDL_AssertData">SDL_AssertData</a> structure corresponding to the current assertion<br/>
@@ -42,19 +38,15 @@ SDL_AssertState YourAssertionHandler(const SDL_AssertData* data, void* userdata)
 </table>
 
 * This callback should return an [SDL_AssertState](../Enumerations/SDL_AssertState.md) value indicating how to handle the assertion failure.
-
 * 该回调函数应返回一个用于表示如何处理断言失败的 [SDL_AssertState](../Enumerations/SDL_AssertState.md) 值。
 
-This callback may fire from any thread, but it runs wrapped in a mutex, so it will only fire from one thread at a time.
-
+This callback may fire from any thread, but it runs wrapped in a mutex, so it will only fire from one thread at a time.  
 该回调函数可能会从任何线程触发，但由于它是在互斥体中封装的，所以一次只会从一个线程中触发。
 
-This callback is NOT reset to SDL's internal handler upon [SDL_Quit](SDL_Quit.md)()!
-
+This callback is NOT reset to SDL's internal handler upon [SDL_Quit](SDL_Quit.md)()!  
 该函数不会因调用 [SDL_Quit](SDL_Quit.md)() 而被重置为 SDL 的内部处理函数。
 
 ##Related Functions 相关函数
-
 [SDL_GetAssertionHandler](SDL_GetAssertionHandler.md)
 
 ---
