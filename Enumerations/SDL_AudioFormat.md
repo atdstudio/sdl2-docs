@@ -21,6 +21,21 @@ Unspecified bits are always zero, but may be used in later versions of SDL. Ther
 没有用到的位总是 0, 但在 SDL 未来的版本中可能会用到。
 
 ###Audio Format Macros 音频格式宏
+<table>
+<tr><td>SDL_AUDIO_MASK_BITSIZE</td><td>(0xFF)</td></tr>
+<tr><td>SDL_AUDIO_MASK_DATATYPE</td><td>(1&lt;&lt;8)</td></tr>
+<tr><td>SDL_AUDIO_MASK_ENDIAN</td><td>(1&lt;&lt;12)</td></tr>
+<tr><td>SDL_AUDIO_MASK_SIGNED</td><td>(1&lt;&lt;15)</td></tr>
+<tr><td>SDL_AUDIO_BITSIZE(x)</td><td>(x &amp; SDL_AUDIO_MASK_BITSIZE)</td></tr>
+<tr><td>SDL_AUDIO_ISFLOAT(x)</td><td>(x &amp; SDL_AUDIO_MASK_DATATYPE)</td></tr>
+<tr><td>SDL_AUDIO_ISBIGENDIAN(x)</td><td>(x &amp; SDL_AUDIO_MASK_ENDIAN)</td></tr>
+<tr><td>SDL_AUDIO_ISSIGNED(x)</td><td>(x &amp; SDL_AUDIO_MASK_SIGNED)</td></tr>
+<tr><td>SDL_AUDIO_ISINT(x)</td><td>(!SDL_AUDIO_ISFLOAT(x))</td></tr>
+<tr><td>SDL_AUDIO_ISLITTLEENDIAN(x)</td><td>(!SDL_AUDIO_ISBIGENDIAN(x))</td></tr>
+<tr><td>SDL_AUDIO_ISUNSIGNED(x)</td><td>(!SDL_AUDIO_ISSIGNED(x))</td></tr>
+</table>
+
+###Audio Format Values 音频格式值
 
 <table>
 <tr><td colspan="2" style="text-align: center;"><b>8-bit support 8位支持</b></td></tr>
@@ -47,7 +62,6 @@ Unspecified bits are always zero, but may be used in later versions of SDL. Ther
 <tr><td>AUDIO_F32</td><td>AUDIO_F32LSB</td></tr>
 </table>
 
-###Audio Format Values 音频格式值
 ##Code Examples
 ```C
 extern SDL_AudioFormat fmt;
