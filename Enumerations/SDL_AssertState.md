@@ -1,6 +1,5 @@
 #[SDL_AssertState](https://wiki.libsdl.org/SDL_AssertState)
-An enumeration of assertion handling states.
-
+An enumeration of assertion handling states.  
 断言处理状态的枚举。
 
 ##Values 值
@@ -18,8 +17,7 @@ An enumeration of assertion handling states.
 ```
 
 ##Remarks 注释
-This enumeration is returned by the callback function in SDL_SetAssertionHandler() to determine the response to failed assertions.
-
+This enumeration is returned by the callback function in SDL_SetAssertionHandler() to determine the response to failed assertions.  
 该枚举是由回调函数 [SDL_SetAssertionHandler](../Functions/SDL_SetAssertionHandler.md)() 返回，用来决定断言失败时的回应。
 
 ##Related Functions 相关函数
