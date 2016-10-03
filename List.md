@@ -139,7 +139,7 @@
 	- [x] [SDL_AllocFormat](Functions/SDL_AllocFormat.md)  			 By SixerMe
 	- [x] [SDL_AllocPalette](Function/SDL_AllocPalette.md)    		 By SixerMe 
 	- [X] [SDL_AllocRW](Function/SDL_AllocRW.md)					 By SixerMe	
-	- [ ] SDL_AndroidGetActivity
+	- [X] [SDL_AndroidGetActivity](Function/SDL_AndroidGetActivity)  By SixerMe
 	- [ ] SDL_AndroidGetExternalStoragePath
 	- [ ] SDL_AndroidGetExternalStorageState
 	- [ ] SDL_AndroidGetInternalStoragePath
