@@ -140,7 +140,7 @@
 	- [x] [SDL_AllocPalette](Function/SDL_AllocPalette.md)    		 By SixerMe 
 	- [X] [SDL_AllocRW](Function/SDL_AllocRW.md)					 By SixerMe	
 	- [X] [SDL_AndroidGetActivity](Function/SDL_AndroidGetActivity)  By SixerMe
-	- [ ] SDL_AndroidGetExternalStoragePath
+	- [X] [SDL_AndroidGetExternalStoragePath](Function/SDL_AndroidGetInternalStoragePath) By SixerMe
 	- [ ] SDL_AndroidGetExternalStorageState
 	- [ ] SDL_AndroidGetInternalStoragePath
 	- [ ] SDL_AndroidGetJNIEnv
