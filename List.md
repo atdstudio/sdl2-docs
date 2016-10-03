@@ -521,7 +521,7 @@
 	- [ ] SDL_RegisterEvents
 	- [ ] SDL_RemoveTimer
 	- [ ] SDL_RenderClear
-	- [ ] SDL_RenderCopy
+	- [x] [SDL_RenderCopy](Functions/SDL_RenderCopy.md) @lxfly2000
 	- [x] [SDL_RenderCopyEx](Functions/SDL_RenderCopyEx.md) @lxfly2000
 	- [ ] SDL_RenderDrawLine
 	- [ ] SDL_RenderDrawLines
@@ -571,7 +571,7 @@
 	- [ ] SDL_SetPaletteColors
 	- [ ] SDL_SetPixelFormatPalette
 	- [ ] SDL_SetRelativeMouseMode
-	- [ ] SDL_SetRenderDrawBlendMode
+	- [x] [SDL_SetRenderDrawBlendMode](Functions/SDL_SetRenderDrawBlendMode.md) @lxfly2000
 	- [ ] SDL_SetRenderDrawColor
 	- [ ] SDL_SetRenderTarget
 	- [ ] SDL_SetSurfaceAlphaMod
