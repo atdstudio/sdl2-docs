@@ -54,7 +54,7 @@ void showHome(void)
 ## Remarks 注意
 
 The prototype of the function in SDL's code actually declares a void* return type, even if the implementation returns a jobject. The rationale being that it allows not to include jni.h in the headers of the SDL.
-这个SDL函数原型实际上声明了void*的返回类型，甚至返回了jobject。值得注意的是不允许SDL不包含jni.h的头文件。
+这个SDL函数原型实际上声明了void*的返回类型，甚至返回了jobject。值得注意的是允许SDL不包含jni.h的头文件。
 
 ## Version 版本
 
