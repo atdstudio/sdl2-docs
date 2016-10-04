@@ -36,4 +36,4 @@ This function is available since SDL 2.0.0.
 [SDL_AndroidGetExternalStorageState](http://wiki.libsdl.org/SDL_AndroidGetExternalStorageState)
 
 ----------------------------------------------------------------------------------\
-*@[SixerMe]((https://github.com/DXkite))  Translated.*
+*@[SixerMe](https://github.com/DXkite)  Translated.*
