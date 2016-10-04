@@ -1,7 +1,7 @@
 
 # [SDL_AndroidGetExternalStoragePath](http://wiki.libsdl.org/SDL_AndroidGetExternalStoragePath?highlight=%28%5CbCategoryAPI%5Cb%29%7C%28SDLFunctionTemplate%29)
 
-Use this function to get the path user for external storage for this application.
+Use this function to get the path used for external storage for this application.
 使用这个函数可以使应用程序获取外部存储路径。
 
 ## Syntax 语法
