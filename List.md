@@ -145,7 +145,7 @@
 	- [x] [SDL_AndroidGetInternalStoragePath](Function/SDL_AndroidGetInternalStoragePath) By SixerMe 
 	- [x] [SDL_AndroidGetJNIEnv](Function/SDL_AndroidGetJNIEnv) By SixerMe 
 	- [x] [SDL_AtomicAdd](Function/SDL_AtomicAdd) By SixerMe 
-	- [ ] SDL_AtomicCAS
+	- [X] [SDL_AtomicCAS](Function/SDL_AtomicCAS) By SixerMe 
 	- [ ] SDL_AtomicCASPtr
 	- [ ] SDL_AtomicDecRef
 	- [ ] SDL_AtomicGet

@@ -1,7 +1,7 @@
 # [SDL_AtomicAdd](http://wiki.libsdl.org/SDL_AtomicAdd?highlight=%28%5CbCategoryAPI%5Cb%29%7C%28SDLFunctionTemplate%29)
 
 User this function to add to an atomic variable.
-这个函数是添加原子变量。
+这个函数是对原子变量加值操作。
 
 ## Syntax 语法
 ```c 
@@ -17,7 +17,7 @@ int SDL_AtomicAdd(SDL_atomic_t* a,
 
 ## Return Value 返回值
 Return the previous value of the atomic variable.
-返回原子原子变量的前值。
+返回值为原始变量加值之后的值。
 
 ## Code Examples 示例代码
 ```c 
