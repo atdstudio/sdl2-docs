@@ -138,15 +138,15 @@
 	- [x] [SDL_AddTimer](Functions/SDL_AddTimer.md)     		     By SixerMe
 	- [x] [SDL_AllocFormat](Functions/SDL_AllocFormat.md)  			 By SixerMe
 	- [x] [SDL_AllocPalette](Function/SDL_AllocPalette.md)    		 By SixerMe 
-	- [X] [SDL_AllocRW](Function/SDL_AllocRW.md)					 By SixerMe	
-	- [X] [SDL_AndroidGetActivity](Function/SDL_AndroidGetActivity)  By SixerMe
-	- [X] [SDL_AndroidGetExternalStoragePath](Function/SDL_AndroidGetInternalStoragePath) By SixerMe
+	- [x] [SDL_AllocRW](Function/SDL_AllocRW.md)					 By SixerMe	
+	- [x] [SDL_AndroidGetActivity](Function/SDL_AndroidGetActivity)  By SixerMe
+	- [x] [SDL_AndroidGetExternalStoragePath](Function/SDL_AndroidGetInternalStoragePath) By SixerMe
 	- [x] [SDL_AndroidGetExternalStorageState](Function/SDL_AndroidGetExternalStorageState) By SixerMe
 	- [x] [SDL_AndroidGetInternalStoragePath](Function/SDL_AndroidGetInternalStoragePath) By SixerMe 
 	- [x] [SDL_AndroidGetJNIEnv](Function/SDL_AndroidGetJNIEnv) By SixerMe 
 	- [x] [SDL_AtomicAdd](Function/SDL_AtomicAdd) By SixerMe 
 	- [X] [SDL_AtomicCAS](Function/SDL_AtomicCAS) By SixerMe 
-	- [ ] SDL_AtomicCASPtr
+	- [x] [SDL_AtomicCASPtr](Function/SDL_AtomicCASPtr) By SixerMe 
 	- [ ] SDL_AtomicDecRef
 	- [ ] SDL_AtomicGet
 	- [ ] SDL_AtomicGetPtr
