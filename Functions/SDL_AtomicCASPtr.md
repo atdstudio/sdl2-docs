@@ -14,6 +14,7 @@ SDL_bool SDL_AtomicCASPtr(void** a,
 
 ## Function Parameters 函数参数
 | 参数 | 解释(EN) | 解释(ZH) |
+|-----|----------|----------|
 | a |  a pointer to a pointer | 一个指针指向另一个指针。 |
 | oldval |  the old pointer value | 旧值指针。 |
 | newval |   the new pointer value | 新值指针。 |
