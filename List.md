@@ -137,17 +137,17 @@
 	- [x] [SDL_AddHintCallback](Functions/SDL_AddHintCallback.md) 	 By SixerMe
 	- [x] [SDL_AddTimer](Functions/SDL_AddTimer.md)     		     By SixerMe
 	- [x] [SDL_AllocFormat](Functions/SDL_AllocFormat.md)  			 By SixerMe
-	- [x] [SDL_AllocPalette](Function/SDL_AllocPalette.md)    		 By SixerMe 
-	- [x] [SDL_AllocRW](Function/SDL_AllocRW.md)					 By SixerMe	
-	- [x] [SDL_AndroidGetActivity](Function/SDL_AndroidGetActivity)  By SixerMe
-	- [x] [SDL_AndroidGetExternalStoragePath](Function/SDL_AndroidGetInternalStoragePath)	 By SixerMe
-	- [x] [SDL_AndroidGetExternalStorageState](Function/SDL_AndroidGetExternalStorageState)	 By SixerMe
-	- [x] [SDL_AndroidGetInternalStoragePath](Function/SDL_AndroidGetInternalStoragePath)	 By SixerMe 
-	- [x] [SDL_AndroidGetJNIEnv](Function/SDL_AndroidGetJNIEnv) 							 By SixerMe 
-	- [x] [SDL_AtomicAdd](Function/SDL_AtomicAdd) 											 By SixerMe 
-	- [X] [SDL_AtomicCAS](Function/SDL_AtomicCAS) 										     By SixerMe 
-	- [x] [SDL_AtomicCASPtr](Function/SDL_AtomicCASPtr)										 By SixerMe 
-	- [ ] SDL_AtomicDecRef
+	- [x] [SDL_AllocPalette](Functions/SDL_AllocPalette.md)    		 By SixerMe 
+	- [x] [SDL_AllocRW](Functions/SDL_AllocRW.md)					 By SixerMe	
+	- [x] [SDL_AndroidGetActivity](Functions/SDL_AndroidGetActivity)  By SixerMe
+	- [x] [SDL_AndroidGetExternalStoragePath](Functions/SDL_AndroidGetInternalStoragePath)	     By SixerMe
+	- [x] [SDL_AndroidGetExternalStorageState](Functions/SDL_AndroidGetExternalStorageState)	 By SixerMe
+	- [x] [SDL_AndroidGetInternalStoragePath](Functions/SDL_AndroidGetInternalStoragePath)	     By SixerMe 
+	- [x] [SDL_AndroidGetJNIEnv](Functions/SDL_AndroidGetJNIEnv) 							     By SixerMe 
+	- [x] [SDL_AtomicAdd](Functions/SDL_AtomicAdd) 											     By SixerMe 
+	- [X] [SDL_AtomicCAS](Functions/SDL_AtomicCAS) 										         By SixerMe 
+	- [x] [SDL_AtomicCASPtr](Functions/SDL_AtomicCASPtr)										 By SixerMe 
+	- [x] [SDL_AtomicDecRef](Functions/SDL_AtomicDecRef) 									     By SixerMe
 	- [ ] SDL_AtomicGet
 	- [ ] SDL_AtomicGetPtr
 	- [ ] SDL_AtomicIncRef
