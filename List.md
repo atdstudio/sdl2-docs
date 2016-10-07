@@ -114,7 +114,7 @@
 	- [ ] SDL_MultiGestureEvent
 	- [ ] SDL_Palette
 	- [ ] SDL_PixelFormat
-	- [x] [SDL_Point](Structures/SDL_Point.md)
+	- [x] [SDL_Point](Structures/SDL_Point.md) By SteDeshain
 	- [ ] SDL_QuitEvent
 	- [ ] SDL_RWops
 	- [ ] SDL_Rect
@@ -543,7 +543,7 @@
 	- [ ] SDL_RenderSetClipRect
 	- [ ] SDL_RenderSetIntegerScale
 	- [ ] SDL_RenderSetLogicalSize
-	- [ ] SDL_RenderSetScale
+	- [x] [SDL_RenderSetScale](Functions/SDL_RenderSetScale.md) By SteDeshain
 	- [ ] SDL_RenderSetViewport
 	- [ ] SDL_RenderTargetSupported
 	- [ ] SDL_ResetAssertionReport
