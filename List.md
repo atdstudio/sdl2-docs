@@ -144,12 +144,12 @@
 	- [x] [SDL_AndroidGetExternalStorageState](Functions/SDL_AndroidGetExternalStorageState)	 By SixerMe
 	- [x] [SDL_AndroidGetInternalStoragePath](Functions/SDL_AndroidGetInternalStoragePath)	     By SixerMe 
 	- [x] [SDL_AndroidGetJNIEnv](Functions/SDL_AndroidGetJNIEnv) 							     By SixerMe 
-	- [x] [SDL_AtomicAdd](Functions/SDL_AtomicAdd) 											     By SixerMe 
-	- [X] [SDL_AtomicCAS](Functions/SDL_AtomicCAS) 										         By SixerMe 
-	- [x] [SDL_AtomicCASPtr](Functions/SDL_AtomicCASPtr)										 By SixerMe 
-	- [x] [SDL_AtomicDecRef](Functions/SDL_AtomicDecRef) 									     By SixerMe
-	- [x] [SDL_AtomicGet](Functions/SDL_AtomicGet)												 By SixerMe
-	- [ ] SDL_AtomicGetPtr
+	- [x] [SDL_AtomicAdd](Functions/SDL_AtomicAdd) 				     By SixerMe 
+	- [X] [SDL_AtomicCAS](Functions/SDL_AtomicCAS) 			         By SixerMe 
+	- [x] [SDL_AtomicCASPtr](Functions/SDL_AtomicCASPtr)			 By SixerMe 
+	- [x] [SDL_AtomicDecRef](Functions/SDL_AtomicDecRef) 		     By SixerMe
+	- [x] [SDL_AtomicGet](Functions/SDL_AtomicGet)					 By SixerMe
+	- [x] [SDL_AtomicGetPtr](Functions/SDL_AtomicGetPtr) 		     By SixerMe							
 	- [ ] SDL_AtomicIncRef
 	- [ ] SDL_AtomicLock
 	- [ ] SDL_AtomicSet
