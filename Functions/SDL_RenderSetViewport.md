@@ -8,10 +8,10 @@ int SDL_RenderSetViewport(SDL_Renderer*   renderer,
 ## Function Parameters 函数参数
 <table>
 <tr><td><b>renderer</b></td><td>the rendering context</td><td>渲染器</td></tr>
-<tr><td><b>rect</b></td><td>the <a herf = "../Structures/SDL_Rect.md">SDL_Rect</a> structure representing the drawing area, or NULL to set the viewport to the entire target</td><td>表示绘制区域的<a herf = "../Structures/SDL_Rect.md">SDL_Rect</a>结构，或者为NULL以表示绘制区域为整个渲染目标</td></tr>
+<tr><td><b>rect</b></td><td>the <a href = "../Structures/SDL_Rect.md">SDL_Rect</a> structure representing the drawing area, or NULL to set the viewport to the entire target</td><td>表示绘制区域的<a href = "../Structures/SDL_Rect.md">SDL_Rect</a>结构，或者为NULL以表示绘制区域为整个渲染目标</td></tr>
 </table>
 ## Return Value 返回值
-Returns 0 on success or a negative error code on failure; call <a herf = "SDL_GetError.md">SDL_GetError()</a> for more information.执行成功返回0,执行失败则返回一个负的错误码，调用<a herf = "SDL_GetError.md">SDL_GetError()</a>以获得更多的错误信息。
+Returns 0 on success or a negative error code on failure; call [SDL_GetError()](./SDL_GetError.md) for more information.执行成功返回0,执行失败则返回一个负的错误码，调用[SDL_GetError()](./SDL_GetError.md)以获得更多的错误信息。
 ## Code Examples 示例代码
 ```C
 暂无
