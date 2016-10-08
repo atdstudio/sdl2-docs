@@ -544,7 +544,7 @@
 	- [ ] SDL_RenderSetIntegerScale
 	- [ ] SDL_RenderSetLogicalSize
 	- [x] [SDL_RenderSetScale](Functions/SDL_RenderSetScale.md) By SteDeshain
-	- [ ] SDL_RenderSetViewport
+	- [x] [SDL_RenderSetViewport](Functions/SDL_RenderSetViewport.md) By SteDeshain
 	- [ ] SDL_RenderTargetSupported
 	- [ ] SDL_ResetAssertionReport
 	- [ ] SDL_RestoreWindow
