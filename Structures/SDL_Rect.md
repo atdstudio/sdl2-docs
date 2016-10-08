@@ -27,16 +27,27 @@ SDL_BlitSurface(src, &srcrect, dst, &dstrect);
 An [SDL_Rect](./SDL_Rect.md) defines a rectangular area of the screen. It is used by [SDL_BlitSurface()](./../Functions/SDL_BlitSurface.md) to define blitting regions and by several other video functions.[SDL_Rect](./SDL_Rect.md)结构在屏幕上定义一个矩形的区域。在[SDL_BlitSurface()](./../Functions/SDL_BlitSurface.md)函数中被用来设置绘制的区域，同时也被很多其他的视频函数所使用。
 ## Related Functions 相关函数
 [SDL_BlitSurface](./../Functions/SDL_BlitSurface.md)
+
 [SDL_EnclosePoints](./../Functions/SDL_EnclosePoints.md)
+
 [SDL_GetDisplayBounds](./../Functions/SDL_GetDisplayBounds.md)
+
 [SDL_HasIntersection](./../Functions/SDL_HasIntersection.md)
+
 [SDL_IntersectRect](./../Functions/SDL_IntersectRect.md)
+
 [SDL_LockTexture](./../Functions/SDL_LockTexture.md)
+
 [SDL_RenderCopy](./../Functions/SDL_RenderCopy.md)
+
 [SDL_RenderDrawRect](./../Functions/SDL_RenderDrawRect.md)
+
 [SDL_RenderDrawRects](./../Functions/SDL_RenderDrawRects.md)
+
 [SDL_RenderReadPixels](./../Functions/SDL_RenderReadPixels.md)
+
 [SDL_UnionRect](./../Functions/SDL_UnionRect.md)
+
 [SDL_UpdateTexture](./../Functions/SDL_UpdateTexture.md)
 
 ---------------------
