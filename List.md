@@ -117,7 +117,7 @@
 	- [x] [SDL_Point](Structures/SDL_Point.md) By SteDeshain
 	- [ ] SDL_QuitEvent
 	- [ ] SDL_RWops
-	- [ ] SDL_Rect
+	- [x] [SDL_Rect](Structures/SDL_Rect.md) By SteDeshain
 	- [ ] SDL_RendererInfo
 	- [ ] SDL_Surface
 	- [ ] SDL_SysWMEvent
