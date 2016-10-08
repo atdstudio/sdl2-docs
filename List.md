@@ -148,7 +148,7 @@
 	- [X] [SDL_AtomicCAS](Functions/SDL_AtomicCAS) 										         By SixerMe 
 	- [x] [SDL_AtomicCASPtr](Functions/SDL_AtomicCASPtr)										 By SixerMe 
 	- [x] [SDL_AtomicDecRef](Functions/SDL_AtomicDecRef) 									     By SixerMe
-	- [ ] SDL_AtomicGet
+	- [x] [SDL_AtomicGet](Functions/SDL_AtomicGet)												 By SixerMe
 	- [ ] SDL_AtomicGetPtr
 	- [ ] SDL_AtomicIncRef
 	- [ ] SDL_AtomicLock
