@@ -1,6 +1,6 @@
 SDL2 文档翻译说明
 ==============================
-1. 统一采用Markdownw文件编码格式,不会请参考 [Markdown入门指南](http://www.jianshu.com/p/1e402922ee32/)
+1. 统一采用Markdown文件编码格式,不会请参考 [Markdown入门指南](http://www.jianshu.com/p/1e402922ee32/)
 2. 翻译规范 
     1. 命名文件，以及放的位置
         文件名统一用列出的标题命名，如我要翻译文档`SDL_AddEventWatch`,文件命名则为`SDL_AddEventWatch.md`   
