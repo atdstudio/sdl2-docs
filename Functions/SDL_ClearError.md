@@ -23,5 +23,6 @@ if (*error) {
 
 [SDL_GetError](../Functions/SDL_GetError.md)	
 [SDL_SetError](../Functions/SDL_SetError.md)	
+
 -------------------------------------------------------------------
 *@[DXkite](https://github.com/DXkite) Translated.*
