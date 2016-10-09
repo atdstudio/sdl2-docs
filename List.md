@@ -164,7 +164,7 @@
 	- [ ] SDL_COMPILEDVERSION
 	- [ ] SDL_CalculateGammaRamp
 	- [ ] SDL_CaptureMouse
-	- [ ] SDL_ClearError
+	- [x] [SDL_ClearError](Functions/SDL_ClearError.md) by DXkite
 	- [ ] SDL_ClearHints
 	- [ ] SDL_ClearQueuedAudio
 	- [ ] SDL_CloseAudio
@@ -562,7 +562,7 @@
 	- [ ] SDL_SetClipboardText
 	- [ ] SDL_SetColorKey
 	- [ ] SDL_SetCursor
-	- [ ] SDL_SetError
+	- [x] [SDL_SetError](Functions/SDL_SetError.md) by DXkite
 	- [ ] SDL_SetEventFilter
 	- [ ] SDL_SetHint
 	- [ ] SDL_SetHintWithPriority
