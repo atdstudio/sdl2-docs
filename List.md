@@ -117,7 +117,7 @@
 	- [x] [SDL_Point](Structures/SDL_Point.md) By SteDeshain
 	- [ ] SDL_QuitEvent
 	- [ ] SDL_RWops
-	- [ ] SDL_Rect
+	- [x] [SDL_Rect](Structures/SDL_Rect.md) By SteDeshain
 	- [ ] SDL_RendererInfo
 	- [ ] SDL_Surface
 	- [ ] SDL_SysWMEvent
@@ -164,7 +164,7 @@
 	- [ ] SDL_COMPILEDVERSION
 	- [ ] SDL_CalculateGammaRamp
 	- [ ] SDL_CaptureMouse
-	- [ ] SDL_ClearError
+	- [x] [SDL_ClearError](Functions/SDL_ClearError.md) by DXkite
 	- [ ] SDL_ClearHints
 	- [ ] SDL_ClearQueuedAudio
 	- [ ] SDL_CloseAudio
@@ -544,7 +544,7 @@
 	- [ ] SDL_RenderSetIntegerScale
 	- [ ] SDL_RenderSetLogicalSize
 	- [x] [SDL_RenderSetScale](Functions/SDL_RenderSetScale.md) By SteDeshain
-	- [ ] SDL_RenderSetViewport
+	- [x] [SDL_RenderSetViewport](Functions/SDL_RenderSetViewport.md) By SteDeshain
 	- [ ] SDL_RenderTargetSupported
 	- [ ] SDL_ResetAssertionReport
 	- [ ] SDL_RestoreWindow
@@ -562,7 +562,7 @@
 	- [ ] SDL_SetClipboardText
 	- [ ] SDL_SetColorKey
 	- [ ] SDL_SetCursor
-	- [ ] SDL_SetError
+	- [x] [SDL_SetError](Functions/SDL_SetError.md) by DXkite
 	- [ ] SDL_SetEventFilter
 	- [ ] SDL_SetHint
 	- [ ] SDL_SetHintWithPriority

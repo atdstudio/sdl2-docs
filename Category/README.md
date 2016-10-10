@@ -2,9 +2,9 @@
 
 | 信息|头文件|
 |-----------------------|-------------------------|
-|Initialization and Shutdown 初始化和退出| [SDL.h](http://hg.libsdl.org/SDL/file/default/include/SDL.h)   |
-| Configuration Variables 配置相关变量 | [SDL_hints.h](http://hg.libsdl.org/SDL/file/default/include/SDL_hints.h)|
-| Error Handling 错误处理   |   [SDL_error.h](http://hg.libsdl.org/SDL/file/default/include/SDL_error.h)     |
+|[Initialization and Shutdown 初始化和退出](Init.md)| [SDL.h](http://hg.libsdl.org/SDL/file/default/include/SDL.h)   |
+|[Configuration Variables 配置相关变量](Hints.md) | [SDL_hints.h](http://hg.libsdl.org/SDL/file/default/include/SDL_hints.h)|
+|[Error Handling 错误处理](Error.md)   |   [SDL_error.h](http://hg.libsdl.org/SDL/file/default/include/SDL_error.h)     |
 | Log Handling 日志处理     | [SDL_log.h](http://hg.libsdl.org/SDL/file/default/include/SDL_log.h)         |
 | Assertions 断言           | [SDL_assert.h](http://hg.libsdl.org/SDL/file/default/include/SDL_assert.h)       |
 | Querying SDL Version 查询SDL版本 | [SDL_version.h](http://hg.libsdl.org/SDL/file/default/include/SDL_version.h)|
