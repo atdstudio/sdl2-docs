@@ -32,3 +32,6 @@ For this reason you should minimize the code executed inside an atomic lock and 
 
 [SDL_AtomicTryLock](http://wiki.libsdl.org/SDL_AtomicTryLock)
 [SDL_AtomicUnlock](http://wiki.libsdl.org/SDL_AtomicUnlock)
+
+--------------------------------------------------------------
+*[SixerMe](https://github.com/DXkite) Translated*

@@ -152,7 +152,7 @@
 	- [x] [SDL_AtomicGetPtr](Functions/SDL_AtomicGetPtr) 		     By SixerMe							
 	- [x] [SDL_AtomicIncRef](Functions/SDL_AtomicIncRef)			 By SixerMe
 	- [x] [SDL_AtomicLock](Functions/SDL_AtomicLock)				 By SixerMe
-	- [ ] SDL_AtomicSet
+	- [x] [SDL_AtomicSet](Functions/SDL_AtomicSet)					 By SixerMe
 	- [ ] SDL_AtomicSetPtr
 	- [ ] SDL_AtomicTryLock
 	- [ ] SDL_AtomicUnlock
