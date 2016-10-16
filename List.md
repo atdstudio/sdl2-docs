@@ -188,7 +188,7 @@
 	- [ ] SDL_CreateSemaphore
 	- [ ] SDL_CreateSoftwareRenderer
 	- [ ] SDL_CreateSystemCursor
-	- [ ] SDL_CreateTexture
+	- [x] [SDL_CreateTexture](Functions/SDL_CreateTexture.md) by SteDeshain
 	- [ ] SDL_CreateTextureFromSurface
 	- [ ] SDL_CreateThread
 	- [ ] SDL_CreateWindow
