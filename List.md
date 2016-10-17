@@ -153,7 +153,7 @@
 	- [x] [SDL_AtomicIncRef](Functions/SDL_AtomicIncRef)			 By SixerMe
 	- [x] [SDL_AtomicLock](Functions/SDL_AtomicLock)				 By SixerMe
 	- [x] [SDL_AtomicSet](Functions/SDL_AtomicSet)					 By SixerMe
-	- [ ] SDL_AtomicSetPtr
+	- [x] [SDL_AtomicSetPtr](Functions/SDL_AtomicSetPtr)			 By SixerMe
 	- [ ] SDL_AtomicTryLock
 	- [ ] SDL_AtomicUnlock
 	- [ ] SDL_AudioInit
