@@ -155,7 +155,7 @@
 	- [x] [SDL_AtomicSet](Functions/SDL_AtomicSet)					 By SixerMe
 	- [x] [SDL_AtomicSetPtr](Functions/SDL_AtomicSetPtr)			 By SixerMe
 	- [x] [SDL_AtomicTryLock](Functions/SDL_AtomicTryLock)		     By SixerMe
-	- [ ] SDL_AtomicUnlock
+	- [x] [SDL_AtomicUnlock](Functions/SDL_AtomicUnlock)			 By SixerMe
 	- [ ] SDL_AudioInit
 	- [ ] SDL_AudioQuit
 	- [ ] SDL_BlitScaled
