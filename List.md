@@ -539,7 +539,7 @@
 	- [ ] SDL_RenderGetViewport
 	- [ ] SDL_RenderIsClipEnabled
 	- [ ] SDL_RenderPresent
-	- [ ] SDL_RenderReadPixels
+	- [x] [SDL_RenderReadPixels](Functions/SDL_RenderReadPixels.md) By SteDeshain
 	- [ ] SDL_RenderSetClipRect
 	- [ ] SDL_RenderSetIntegerScale
 	- [ ] SDL_RenderSetLogicalSize
