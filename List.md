@@ -336,7 +336,7 @@
 	- [ ] SDL_GetSurfaceBlendMode
 	- [ ] SDL_GetSurfaceColorMod
 	- [ ] SDL_GetSystemRAM
-	- [ ] SDL_GetTextureAlphaMod
+	- [x] [SDL_GetTextureAlphaMod](./Functions/SDL_GetTextureAlphaMod.md) by SteDeshain
 	- [ ] SDL_GetTextureBlendMode
 	- [ ] SDL_GetTextureColorMod
 	- [ ] SDL_GetThreadID
@@ -539,7 +539,7 @@
 	- [ ] SDL_RenderGetViewport
 	- [ ] SDL_RenderIsClipEnabled
 	- [ ] SDL_RenderPresent
-	- [ ] SDL_RenderReadPixels
+	- [x] [SDL_RenderReadPixels](Functions/SDL_RenderReadPixels.md) By SteDeshain
 	- [ ] SDL_RenderSetClipRect
 	- [ ] SDL_RenderSetIntegerScale
 	- [ ] SDL_RenderSetLogicalSize
