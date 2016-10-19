@@ -157,7 +157,7 @@
 	- [x] [SDL_AtomicTryLock](Functions/SDL_AtomicTryLock)		     By SixerMe
 	- [x] [SDL_AtomicUnlock](Functions/SDL_AtomicUnlock)			 By SixerMe
 	- [x] [SDL_AudioInit](Functions/SDL_AudioInit)					 By SixerMe
-	- [ ] SDL_AudioQuit
+	- [x] [SDL_AudioQuit](Functions/SDL_AudioQuit) 					 By SixerMe
 	- [ ] SDL_BlitScaled
 	- [ ] SDL_BlitSurface
 	- [ ] SDL_BuildAudioCVT
