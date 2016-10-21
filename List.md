@@ -633,7 +633,7 @@
 	- [ ] SDL_UnlockAudioDevice
 	- [ ] SDL_UnlockMutex
 	- [ ] SDL_UnlockSurface
-	- [ ] SDL_UnlockTexture
+	- [x] [SDL_UnlockTexture](Functions/SDL_UnlockTexture.md) By SteDeshain
 	- [ ] SDL_UpdateTexture
 	- [ ] SDL_UpdateWindowSurface
 	- [ ] SDL_UpdateWindowSurfaceRects
