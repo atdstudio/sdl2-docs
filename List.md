@@ -634,7 +634,7 @@
 	- [ ] SDL_UnlockMutex
 	- [ ] SDL_UnlockSurface
 	- [x] [SDL_UnlockTexture](Functions/SDL_UnlockTexture.md) By SteDeshain
-	- [ ] SDL_UpdateTexture
+	- [x] [SDL_UpdateTexture](Functions/SDL_UpdateTexture.md) By SteDeshain
 	- [ ] SDL_UpdateWindowSurface
 	- [ ] SDL_UpdateWindowSurfaceRects
 	- [ ] SDL_UpdateYUVTexture
