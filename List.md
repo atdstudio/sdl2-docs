@@ -451,7 +451,7 @@
 	- [ ] SDL_LockAudioDevice
 	- [ ] SDL_LockMutex
 	- [ ] SDL_LockSurface
-	- [ ] SDL_LockTexture
+	- [x] [SDL_LockTexture](Functions/SDL_LockTexture.md) By SteDeshain
 	- [ ] SDL_Log
 	- [ ] SDL_LogCritical
 	- [ ] SDL_LogDebug
