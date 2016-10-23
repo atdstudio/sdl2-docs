@@ -223,9 +223,9 @@
 	- [ ] SDL_FreeSurface
 	- [ ] SDL_FreeWAV
 	- [ ] SDL_GL_BindTexture
-	- [x] SDL_GL_CreateContext
-	- [x] SDL_GL_DeleteContext
-	- [ ] SDL_GL_ExtensionSupported
+	- [x] SDL_GL_CreateContext by  @[星翼](https://git.oschina.net/Luma)
+	- [x] SDL_GL_DeleteContext by  @[星翼](https://git.oschina.net/Luma)
+	- [x] SDL_GL_ExtensionSupported by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_GetAttribute
 	- [ ] SDL_GL_GetCurrentContext
 	- [ ] SDL_GL_GetCurrentWindow
