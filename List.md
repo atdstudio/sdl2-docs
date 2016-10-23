@@ -224,7 +224,7 @@
 	- [ ] SDL_FreeWAV
 	- [ ] SDL_GL_BindTexture
 	- [x] SDL_GL_CreateContext
-	- [ ] SDL_GL_DeleteContext
+	- [x] SDL_GL_DeleteContext
 	- [ ] SDL_GL_ExtensionSupported
 	- [ ] SDL_GL_GetAttribute
 	- [ ] SDL_GL_GetCurrentContext
