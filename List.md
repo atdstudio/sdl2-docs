@@ -236,8 +236,8 @@
 	- [x] SDL_GL_MakeCurrent  by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_ResetAttributes
 	- [ ] SDL_GL_SetAttribute
-	- [ ] SDL_GL_SetSwapInterval
-	- [ ] SDL_GL_SwapWindow
+	- [ ] SDL_GL_SetSwapInterval 
+	- [x] SDL_GL_SwapWindow by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_UnbindTexture
 	- [ ] SDL_GL_UnloadLibrary
 	- [ ] SDL_GameControllerAddMapping
