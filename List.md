@@ -228,7 +228,7 @@
 	- [x] SDL_GL_ExtensionSupported by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_GetAttribute
 	- [x] SDL_GL_GetCurrentContext by  @[星翼](https://git.oschina.net/Luma)
-	- [ ] SDL_GL_GetCurrentWindow
+	- [x] SDL_GL_GetCurrentWindow by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_GetDrawableSize
 	- [ ] SDL_GL_GetProcAddress
 	- [ ] SDL_GL_GetSwapInterval
