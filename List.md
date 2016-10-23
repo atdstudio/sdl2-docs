@@ -239,7 +239,7 @@
 	- [ ] SDL_GL_SetSwapInterval 
 	- [x] SDL_GL_SwapWindow by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_UnbindTexture
-	- [ ] SDL_GL_UnloadLibrary
+	- [x] SDL_GL_UnloadLibrary by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GameControllerAddMapping
 	- [ ] SDL_GameControllerAddMappingsFromFile
 	- [ ] SDL_GameControllerAddMappingsFromRW
