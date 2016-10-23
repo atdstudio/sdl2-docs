@@ -233,7 +233,7 @@
 	- [x] SDL_GL_GetProcAddress by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_GetSwapInterval
 	- [x] SDL_GL_LoadLibrary  by  @[星翼](https://git.oschina.net/Luma)
-	- [ ] SDL_GL_MakeCurrent
+	- [x] SDL_GL_MakeCurrent  by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_ResetAttributes
 	- [ ] SDL_GL_SetAttribute
 	- [ ] SDL_GL_SetSwapInterval
