@@ -223,23 +223,23 @@
 	- [ ] SDL_FreeSurface
 	- [ ] SDL_FreeWAV
 	- [ ] SDL_GL_BindTexture
-	- [ ] SDL_GL_CreateContext
-	- [ ] SDL_GL_DeleteContext
-	- [ ] SDL_GL_ExtensionSupported
+	- [x] SDL_GL_CreateContext by  @[星翼](https://git.oschina.net/Luma)
+	- [x] SDL_GL_DeleteContext by  @[星翼](https://git.oschina.net/Luma)
+	- [x] SDL_GL_ExtensionSupported by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_GetAttribute
-	- [ ] SDL_GL_GetCurrentContext
-	- [ ] SDL_GL_GetCurrentWindow
-	- [ ] SDL_GL_GetDrawableSize
-	- [ ] SDL_GL_GetProcAddress
+	- [x] SDL_GL_GetCurrentContext by  @[星翼](https://git.oschina.net/Luma)
+	- [x] SDL_GL_GetCurrentWindow by  @[星翼](https://git.oschina.net/Luma)
+	- [x] SDL_GL_GetDrawableSize by  @[星翼](https://git.oschina.net/Luma)
+	- [x] SDL_GL_GetProcAddress by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_GetSwapInterval
-	- [ ] SDL_GL_LoadLibrary
-	- [ ] SDL_GL_MakeCurrent
+	- [x] SDL_GL_LoadLibrary  by  @[星翼](https://git.oschina.net/Luma)
+	- [x] SDL_GL_MakeCurrent  by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_ResetAttributes
 	- [ ] SDL_GL_SetAttribute
-	- [ ] SDL_GL_SetSwapInterval
-	- [ ] SDL_GL_SwapWindow
+	- [ ] SDL_GL_SetSwapInterval 
+	- [x] SDL_GL_SwapWindow by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_UnbindTexture
-	- [ ] SDL_GL_UnloadLibrary
+	- [x] SDL_GL_UnloadLibrary by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GameControllerAddMapping
 	- [ ] SDL_GameControllerAddMappingsFromFile
 	- [ ] SDL_GameControllerAddMappingsFromRW
@@ -451,7 +451,7 @@
 	- [ ] SDL_LockAudioDevice
 	- [ ] SDL_LockMutex
 	- [ ] SDL_LockSurface
-	- [ ] SDL_LockTexture
+	- [x] [SDL_LockTexture](Functions/SDL_LockTexture.md) By SteDeshain
 	- [ ] SDL_Log
 	- [ ] SDL_LogCritical
 	- [ ] SDL_LogDebug
@@ -633,8 +633,8 @@
 	- [ ] SDL_UnlockAudioDevice
 	- [ ] SDL_UnlockMutex
 	- [ ] SDL_UnlockSurface
-	- [ ] SDL_UnlockTexture
-	- [ ] SDL_UpdateTexture
+	- [x] [SDL_UnlockTexture](Functions/SDL_UnlockTexture.md) By SteDeshain
+	- [x] [SDL_UpdateTexture](Functions/SDL_UpdateTexture.md) By SteDeshain
 	- [ ] SDL_UpdateWindowSurface
 	- [ ] SDL_UpdateWindowSurfaceRects
 	- [ ] SDL_UpdateYUVTexture
