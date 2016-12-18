@@ -159,7 +159,7 @@
 	- [x] [SDL_AudioInit](Functions/SDL_AudioInit)					 By SixerMe
 	- [x] [SDL_AudioQuit](Functions/SDL_AudioQuit) 					 By SixerMe
 	- [x] [SDL_BlitScaled](Functions/SDL_BlitScaled)  				 By SixerMe
-	- [ ] SDL_BlitSurface
+	- [x] [SDL_BlitSurface](Functions/SDL_BlitSurface)				 By SixerMe
 	- [ ] SDL_BuildAudioCVT
 	- [ ] SDL_COMPILEDVERSION
 	- [ ] SDL_CalculateGammaRamp
