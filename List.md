@@ -162,7 +162,7 @@
 	- [x] [SDL_BlitSurface](Functions/SDL_BlitSurface)				 By SixerMe
 	- [x] [SDL_BuildAudioCVT](Functions/SDL_BuildAudioCVT)			 By SixerMe
 	- [x] [SDL_COMPILEDVERSION](Functions/SDL_COMPILEDVERSION)		 By SixerMe
-	- [ ] SDL_CalculateGammaRamp
+	- [x] [SDL_CalculateGammaRamp](Functions/SDL_CalculateGammaRamp) By SixerMe
 	- [ ] SDL_CaptureMouse
 	- [x] [SDL_ClearError](Functions/SDL_ClearError.md) by DXkite
 	- [ ] SDL_ClearHints
