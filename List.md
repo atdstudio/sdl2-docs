@@ -139,33 +139,33 @@
 	- [x] [SDL_AllocFormat](Functions/SDL_AllocFormat.md)  			 By SixerMe
 	- [x] [SDL_AllocPalette](Functions/SDL_AllocPalette.md)    		 By SixerMe 
 	- [x] [SDL_AllocRW](Functions/SDL_AllocRW.md)					 By SixerMe	
-	- [x] [SDL_AndroidGetActivity](Functions/SDL_AndroidGetActivity)  By SixerMe
-	- [x] [SDL_AndroidGetExternalStoragePath](Functions/SDL_AndroidGetInternalStoragePath)	     By SixerMe
-	- [x] [SDL_AndroidGetExternalStorageState](Functions/SDL_AndroidGetExternalStorageState)	 By SixerMe
-	- [x] [SDL_AndroidGetInternalStoragePath](Functions/SDL_AndroidGetInternalStoragePath)	     By SixerMe 
-	- [x] [SDL_AndroidGetJNIEnv](Functions/SDL_AndroidGetJNIEnv) 							     By SixerMe 
-	- [x] [SDL_AtomicAdd](Functions/SDL_AtomicAdd) 				     By SixerMe 
-	- [X] [SDL_AtomicCAS](Functions/SDL_AtomicCAS) 			         By SixerMe 
-	- [x] [SDL_AtomicCASPtr](Functions/SDL_AtomicCASPtr)			 By SixerMe 
-	- [x] [SDL_AtomicDecRef](Functions/SDL_AtomicDecRef) 		     By SixerMe
-	- [x] [SDL_AtomicGet](Functions/SDL_AtomicGet)					 By SixerMe
-	- [x] [SDL_AtomicGetPtr](Functions/SDL_AtomicGetPtr) 		     By SixerMe							
-	- [x] [SDL_AtomicIncRef](Functions/SDL_AtomicIncRef)			 By SixerMe
-	- [x] [SDL_AtomicLock](Functions/SDL_AtomicLock)				 By SixerMe
-	- [x] [SDL_AtomicSet](Functions/SDL_AtomicSet)					 By SixerMe
-	- [x] [SDL_AtomicSetPtr](Functions/SDL_AtomicSetPtr)			 By SixerMe
-	- [x] [SDL_AtomicTryLock](Functions/SDL_AtomicTryLock)		     By SixerMe
-	- [x] [SDL_AtomicUnlock](Functions/SDL_AtomicUnlock)			 By SixerMe
-	- [x] [SDL_AudioInit](Functions/SDL_AudioInit)					 By SixerMe
-	- [x] [SDL_AudioQuit](Functions/SDL_AudioQuit) 					 By SixerMe
-	- [x] [SDL_BlitScaled](Functions/SDL_BlitScaled)  				 By SixerMe
-	- [x] [SDL_BlitSurface](Functions/SDL_BlitSurface)				 By SixerMe
-	- [x] [SDL_BuildAudioCVT](Functions/SDL_BuildAudioCVT)			 By SixerMe
-	- [x] [SDL_COMPILEDVERSION](Functions/SDL_COMPILEDVERSION)		 By SixerMe
-	- [x] [SDL_CalculateGammaRamp](Functions/SDL_CalculateGammaRamp) By SixerMe
-	- [x] [SDL_CaptureMouse](Functions/SDL_CaptureMouse)			 By SixerMe
-	- [x] [SDL_ClearError](Functions/SDL_ClearError.md) by DXkite
-	- [ ] SDL_ClearHints
+	- [x] [SDL_AndroidGetActivity](Functions/SDL_AndroidGetActivity.md)  By SixerMe
+	- [x] [SDL_AndroidGetExternalStoragePath](Functions/SDL_AndroidGetInternalStoragePath.md)	     By SixerMe
+	- [x] [SDL_AndroidGetExternalStorageState](Functions/SDL_AndroidGetExternalStorageState.md)	 By SixerMe
+	- [x] [SDL_AndroidGetInternalStoragePath](Functions/SDL_AndroidGetInternalStoragePath.md)	     By SixerMe 
+	- [x] [SDL_AndroidGetJNIEnv](Functions/SDL_AndroidGetJNIEnv.md) 							     By SixerMe 
+	- [x] [SDL_AtomicAdd](Functions/SDL_AtomicAdd.md) 				     By SixerMe 
+	- [X] [SDL_AtomicCAS](Functions/SDL_AtomicCAS.md) 			         By SixerMe 
+	- [x] [SDL_AtomicCASPtr](Functions/SDL_AtomicCASPtr.md)				 By SixerMe 
+	- [x] [SDL_AtomicDecRef](Functions/SDL_AtomicDecRef.md) 		     By SixerMe
+	- [x] [SDL_AtomicGet](Functions/SDL_AtomicGet.md)					 By SixerMe
+	- [x] [SDL_AtomicGetPtr](Functions/SDL_AtomicGetPtr.md) 		     By SixerMe							
+	- [x] [SDL_AtomicIncRef](Functions/SDL_AtomicIncRef.md)				 By SixerMe
+	- [x] [SDL_AtomicLock](Functions/SDL_AtomicLock.md)					 By SixerMe
+	- [x] [SDL_AtomicSet](Functions/SDL_AtomicSet.md)					 By SixerMe
+	- [x] [SDL_AtomicSetPtr](Functions/SDL_AtomicSetPtr.md)				 By SixerMe
+	- [x] [SDL_AtomicTryLock](Functions/SDL_AtomicTryLock.md)		     By SixerMe
+	- [x] [SDL_AtomicUnlock](Functions/SDL_AtomicUnlock.md)				 By SixerMe
+	- [x] [SDL_AudioInit](Functions/SDL_AudioInit.md)					 By SixerMe
+	- [x] [SDL_AudioQuit](Functions/SDL_AudioQuit.md) 					 By SixerMe
+	- [x] [SDL_BlitScaled](Functions/SDL_BlitScaled.md)  				 By SixerMe
+	- [x] [SDL_BlitSurface](Functions/SDL_BlitSurface.md)				 By SixerMe
+	- [x] [SDL_BuildAudioCVT](Functions/SDL_BuildAudioCVT.md)			 By SixerMe
+	- [x] [SDL_COMPILEDVERSION](Functions/SDL_COMPILEDVERSION.md)		 By SixerMe
+	- [x] [SDL_CalculateGammaRamp](Functions/SDL_CalculateGammaRamp.md)  By SixerMe
+	- [x] [SDL_CaptureMouse](Functions/SDL_CaptureMouse.md)				 By SixerMe
+	- [x] [SDL_ClearError](Functions/SDL_ClearError.md) 				 by DXkite
+	- [x] [SDL_ClearHints](Functions/SDL_ClearHints.md)					 By SixerMe				
 	- [ ] SDL_ClearQueuedAudio
 	- [ ] SDL_CloseAudio
 	- [ ] SDL_CloseAudioDevice
