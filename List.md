@@ -163,7 +163,7 @@
 	- [x] [SDL_BuildAudioCVT](Functions/SDL_BuildAudioCVT)			 By SixerMe
 	- [x] [SDL_COMPILEDVERSION](Functions/SDL_COMPILEDVERSION)		 By SixerMe
 	- [x] [SDL_CalculateGammaRamp](Functions/SDL_CalculateGammaRamp) By SixerMe
-	- [ ] SDL_CaptureMouse
+	- [x] [SDL_CaptureMouse](Functions/SDL_CaptureMouse)			 By SixerMe
 	- [x] [SDL_ClearError](Functions/SDL_ClearError.md) by DXkite
 	- [ ] SDL_ClearHints
 	- [ ] SDL_ClearQueuedAudio

@@ -1,5 +1,5 @@
 
-# [SDL_CalculateGammaRamp](http;//wiki/libsdl.org/SDL_CalculateGammaRamp)
+# [SDL_CalculateGammaRamp](http：//wiki/libsdl.org/SDL_CalculateGammaRamp)
 
 Use this function to calculate a 256 entry gamma ramp for a gamma value.
 
@@ -33,7 +33,7 @@ void SDL_CalculateGammaRamp(float   gamma,
 
 ## Related Functions 相关函数
 
-[SDL_SetWindowGammaRamp](http;//.wiki.libsdl.org/SDL_SetWindowGammaRamp)()
+[SDL_SetWindowGammaRamp](http：//wiki.libsdl.org/SDL_SetWindowGammaRamp)()
 
 
 ------------------------------------------------------------------------------
