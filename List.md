@@ -191,7 +191,7 @@
 	- [x] [SDL_CreateTexture](Functions/SDL_CreateTexture.md) by SteDeshain
 	- [ ] SDL_CreateTextureFromSurface
 	- [ ] SDL_CreateThread
-	- [ ] SDL_CreateWindow
+	- [x] [SDL_CreateWindow](Functions/SDL_CreateWindow.md) By PomeloSan 
 	- [ ] SDL_CreateWindowAndRenderer
 	- [ ] SDL_CreateWindowFrom
 	- [ ] SDL_DXGIGetOutputInfo
@@ -208,7 +208,7 @@
 	- [ ] SDL_DetachThread
 	- [ ] SDL_Direct3D9GetAdapterIndex
 	- [ ] SDL_DisableScreenSaver
-	- [ ] SDL_EnableScreenSaver
+	- [x] [SDL_EnableScreenSaver](Functions/SDL_EnableScreenSaver.md) By PomeloSan
 	- [ ] SDL_EnclosePoints
 	- [ ] SDL_EventState
 	- [ ] SDL_FillRect
@@ -240,7 +240,7 @@
 	- [x] SDL_GL_SwapWindow by  @[星翼](https://git.oschina.net/Luma)
 	- [ ] SDL_GL_UnbindTexture
 	- [x] SDL_GL_UnloadLibrary by  @[星翼](https://git.oschina.net/Luma)
-	- [ ] SDL_GameControllerAddMapping
+	- [x] [SDL_GameControllerAddMapping](Functions/SDL_GameControllerAddMapping.md) By PomeloSan
 	- [ ] SDL_GameControllerAddMappingsFromFile
 	- [ ] SDL_GameControllerAddMappingsFromRW
 	- [ ] SDL_GameControllerClose
@@ -272,7 +272,7 @@
 	- [ ] SDL_GetCPUCacheLineSize
 	- [ ] SDL_GetCPUCount
 	- [ ] SDL_GetClipRect
-	- [ ] SDL_GetClipboardText
+	- [x] [SDL_GetClipboardText](Functions/SDL_GetClipboardText.md) By PomeloSan
 	- [ ] SDL_GetClosestDisplayMode
 	- [ ] SDL_GetColorKey
 	- [ ] SDL_GetCurrentAudioDriver
@@ -396,7 +396,7 @@
 	- [ ] SDL_HasAVX
 	- [ ] SDL_HasAVX2
 	- [ ] SDL_HasAltiVec
-	- [ ] SDL_HasClipboardText
+	- [x] [SDL_HasClipboardText](Functions/SDL_HasClipboardText.md) By PomeloSan
 	- [ ] SDL_HasEvent
 	- [ ] SDL_HasEvents
 	- [ ] SDL_HasIntersection
